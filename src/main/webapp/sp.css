@@ -1,0 +1,96 @@
+body{
+ 	background: url(https://wallpapercave.com/wp/wp2019258.jpg );
+ 	margin: 0;
+ 	padding: 0;
+ 	background-size: cover;
+ 	background-position: center;
+ 	font-family: sans-serif;
+ }
+
+#ip{
+	
+	margin: 60px 606px 42px 550px;
+	padding:20px;
+	text-align: center;
+	background-color:#495e66;
+}
+
+.Gk input[type=text]{
+	width: 300px;
+	border: none;
+	border-bottom: 1px solid white;
+	background: transparent;
+	height: 40px;
+	outline: none;
+}
+
+.Gk textarea{
+	border: none;
+	width: 300px;
+	border-bottom: 1px solid white;
+	background: transparent;
+	height: 40px;
+	outline: none;
+
+}
+
+    
+
+.Gk select{
+	width: 300px;
+	margin: 2px 23px;
+	border: none;
+	border-bottom: 1px solid white;
+	background: transparent;
+	height: 40px;
+	outline: none;
+
+}
+.Gk h1{
+	position: relative;
+	background: linear-gradient(white);
+	background-color: white;
+	content: '';
+	position: absolute;
+	padding: 7px -10px 97px 4px;
+	margin: 81px 206px -154px 679px;
+	border: 11px solid black;
+	background: linear-gradient(135deg,black,rgb(27, 111, 174),rgb(27, 111, 174),rgb(84, 123, 161),rgb(143, 123, 122));
+	font-size: 54px;
+	top: -76px;
+	right:550px;
+	bottom: 780px;
+	left: 7px;
+	border-radius: 50%;
+
+
+
+	
+}
+.Gk input[type=submit] {
+	background: linear-gradient(135deg,black,rgb(27, 111, 174),rgb(27, 111, 174),rgb(84, 123, 161),rgb(143, 123, 122));
+	border: none;
+	outline: none;
+	color: white;
+	padding: 10px,15px;
+	width: 300px;
+	height: 40px;
+	border-radius: 10px 0px 10px 0px;
+}
+.Gk input[ type="submit"]
+{
+	box-shadow: 0 0 10px white;
+	cursor: pointer;
+}
+::placeholder{
+	color: white;
+}
+.Gk textarea
+{
+	width: 300px;
+}
+.Gk select
+{
+	width: 300px;
+	color: white;
+}
